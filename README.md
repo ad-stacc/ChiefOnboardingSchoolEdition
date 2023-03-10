@@ -1,6 +1,6 @@
 # Overview
 
-This is an in development fork of the project ChiefOnboarding https://github.com/chiefonboarding/ChiefOnboarding
+This is an in development fork of the project ChiefOnboarding https://github.com/chiefonboarding/ChiefOnboarding   https://chiefonboarding.com  
 
 Changes to wording and HR terminilogy to be more compatible with a student onboarding process
 
